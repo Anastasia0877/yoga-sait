@@ -143,6 +143,9 @@ form {
 #our_classes {
     margin-bottom: 215px;
 }
+#our_classes .our-classes__title{
+    text-align: center;
+}
 .our-classes__container {
     display: flex;
     flex-direction: column;
@@ -414,7 +417,7 @@ form {
 #price {
     background-image: url("../img/bg-03.jpg");
     background-repeat: no-repeat;
-    padding: 100px 0;
+    padding: 100px 12px;
     background-position: right bottom;
     position: relative;
 }
